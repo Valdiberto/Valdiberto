@@ -8,7 +8,7 @@ Currently building real-world projects using **React.js**, **TypeScript**, and *
 ### 💻 Technologies I'm working with
 
 - ⚛️ React.js | TypeScript | Next.js  
-- 💅 Styled Components | Stitches | Radix UI  
+- 💅 Styled Components | Stitches | Tailwind  
 - 🧩 Context API | React Hook Form | Zod  
 - 🌐 REST APIs | Axios  
 - 🔧 Git | GitHub | Vercel  
